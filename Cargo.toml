@@ -1,0 +1,9 @@
+[package]
+name = "lost-cities-bot-brad"
+version = "0.1.0"
+authors = ["Michael Alexander <beefsack@gmail.com>"]
+
+[dependencies]
+lost-cities = { git = "https://github.com/brdgme/lost-cities.git" }
+brdgme-game = { git = "https://github.com/brdgme/game.git" }
+brdgme-cmd = { git = "https://github.com/brdgme/cmd.git" }
